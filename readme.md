@@ -1,6 +1,6 @@
 ## IDM下载豆丁官网资料
 
-![image-20210911160824412](img.assets\image-20210911160824412.png)
+![image-20210911160824412](img.assets/image-20210911160824412.png)
 
 ​	①使用前务必确保浏览器安装了internetdownload插件，简称IDM
 
