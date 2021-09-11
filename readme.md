@@ -8,17 +8,17 @@
 
 ​	③打开Debug文件夹下，双击ConsoleApplication1.exe文件
 
-![image-20210911161349726](img.assets\image-20210911161349726.png)
+![image-20210911161349726](img.assets/image-20210911161349726.png)
 
 ​	④输入来在豆丁书房抓取的文件连接（例：https://docimg1.docin.com/docinpic.jsp?file=410960029&width=1000&sid=--oouFb138yQDk5F6mN1fapgA9Z5X3NNfXSrDV68D*Sbekbwh66XnQqe7-e0GW*t&pageno=1），最后一位代表我们要下载的页数，比如例子中的为第一页，所以要将等于号后的“1”删除，输入如下：
 
-![image-20210911161750911](img.assets\image-20210911161750911.png)
+![image-20210911161750911](img.assets/image-20210911161750911.png)
 
 ​	⑤此时Debug文件下会产生一个“idmDownload.ef2”文件，原本有的已经更新，☛右击 ☛打开方式 ☛选择IDM EF2 解析工具，点击解析。
 
 ​	⑥解析会启动idm，运气好不会自动下载，运气会有几个文件提前下载，点击windows运行程序，进入idm任务列表，最好把以前下载的任务列表清除一下，发现运气比较差，部分已经下载了，不过没关系，点击开始列队。
 
-![image-20210911162637808](img.assets\image-20210911162637808.png)
+![image-20210911162637808](img.assets/image-20210911162637808.png)
 
 ​	⑦下载完桌面自动生成了一个fileImg的文件夹，打开发现都是下载下来的图片，Ctrl+A全选，将图片合并在PDF文件中，这里我使用的是Adobe Acrobat Pro DC，不知道的小伙伴可以百度下载一个破解版，好使。
 
